@@ -1,1 +1,1 @@
-{"tfjsVersion":"1.3.1","tmVersion":"2.1.2","packageVersion":"0.8.4","packageName":"@teachablemachine/image","timeStamp":"2020-01-15T09:04:10.545Z","userMetadata":{},"modelName":"tm-my-image-model","labels":["smile","アニマル"]}
+{"tfjsVersion":"1.3.1","tmVersion":"2.1.2","packageVersion":"0.8.4","packageName":"@teachablemachine/image","timeStamp":"2020-01-15T10:01:04.333Z","userMetadata":{},"modelName":"tm-my-image-model","labels":["smile","normal"]}
